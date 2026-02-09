@@ -1,4 +1,4 @@
-##Viv-Calif Sales Dashboard
+## Viv-Calif Sales Dashboard
 
 ### Summary
 This project delivers an in-depth analysis of a global retail company’s sales performance using Microsoft Excel. The dashboard leverages advanced Excel features to transform raw sales, customer, and territory data into interactive visual insights, enabling stakeholders to track performance, identify trends, and support data-driven decision-making.
