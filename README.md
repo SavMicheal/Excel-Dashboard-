@@ -5,6 +5,11 @@ This project delivers an in-depth analysis of a global retail company’s sales 
 
 ---
 
+### Dataset Used 
+- <a href="https://github.com/SavMicheal/Excel-Dashboard-/blob/main/Ecommerce%20Data%20.xlsx">Dataset View </a>
+
+---
+
 ### Objectives
 - Analyze sales performance across countries and cities  
 - Identify top-performing product categories and subcategories  
