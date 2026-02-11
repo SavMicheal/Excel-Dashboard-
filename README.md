@@ -6,7 +6,7 @@ This project delivers an in-depth analysis of a global retail company’s sales 
 ---
 
 ### Dataset Used 
-- <a href="https://github.com/SavMicheal/Excel-Dashboard-/blob/main/Ecommerce%20Data%20.xlsx">Dataset View </a>
+- <a href="https://github.com/SavMicheal/Ecommerce-Sales-Dashboard/raw/refs/heads/main/Ecommerce_Data.xlsx">Dataset View </a>
 
 ---
 
